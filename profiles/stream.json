@@ -1,0 +1,26 @@
+{
+    "B1": "sound:B1",
+    "B2": "sound:B2",
+    "B3": "sound:B3",
+    "B4": "sound:B4",
+    "B5": "sound:B5",
+    "B6": "sound:B6",
+
+    "B7": "obs:scene:GAMEPLAY",
+    "B8": "obs:scene:CAMERA",
+    "B9": "obs:scene:CHAT",
+
+    "B*": "obs:scene:PAUSE",
+    "B0": "obs:scene:START",
+    "B#": "obs:scene:END",
+
+    "BA": "obs:start_toggle",
+    "BB": "record_audio:toggle",
+    "BC": "obs:record_toggle",
+
+    "BD": "mode:next",
+
+    "E1+": "media:vol_up",
+    "E1-": "media:vol_down",
+    "E1P": "media:playpause"
+}

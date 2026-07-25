@@ -1,0 +1,10 @@
+pyserial>=3.5
+pygame>=2.6.1
+pycaw>=20251023
+comtypes
+psutil
+obsws-python
+spotipy
+python-dotenv
+pystray
+Pillow

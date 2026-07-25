@@ -1,0 +1,26 @@
+{
+    "B1":"launch:operagx",
+    "B2":"launch:youtube",
+    "B3":"launch:discord",
+    "BA":"launch:whatsapp",
+
+    "B4":"launch:steam",
+    "B5":"launch:inventor",
+    "B6":"launch:obs",
+    "BB":"launch:davinci",
+
+    "B7":"launch:lunar",
+    "B8":"launch:word",
+    "B9":"launch:excel",
+    "BC":"launch:canva",
+
+    "B*":"launch:spotify",
+    "B0":"launch:explorer",
+    "B#":"screenshot",
+
+    "BD":"mode:next",
+
+    "E1+": "media:vol_up",
+    "E1-": "media:vol_down",
+    "E1P": "media:playpause"
+}
