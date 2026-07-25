@@ -1,4 +1,4 @@
-# BlackObsidian Studios - StreamDeck
+# BlackObsidian Studios - StreamDeck (BETA)
 
 ![Status](https://img.shields.io/badge/status-development-orange)
 
